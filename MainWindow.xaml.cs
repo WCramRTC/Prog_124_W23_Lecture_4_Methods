@@ -23,6 +23,10 @@ namespace Prog_124_W23_Lecture_4_Methods
         public MainWindow()
         {
             InitializeComponent();
+
+
+
+
         } // MainWindow()
 
         // Todays Lecture
@@ -30,6 +34,8 @@ namespace Prog_124_W23_Lecture_4_Methods
         // more on THIS
         // Overloading Methods
         // Override ToString()
+
+
 
     } // class
 
